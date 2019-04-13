@@ -11,3 +11,47 @@ DFS.
 
 - Clear, 초기화, 범위 등 런타임 에러 주의
   
+  기본 구조 :
+  
+  dfs(){
+  
+  //count++, visit = true
+  
+    for(int i=0; i<4; i++){
+    // tx, ty 설정
+    
+    // 범위 등 예외 처리 -> continue
+    
+    // else { 본격 처리 dfs()}
+  
+    }
+  
+  //visit = false; 
+  
+  }
+  
+
+
+BFS. -> visit을 다시 false 시킬일 없이 둥근 모양으로 쭉 가서 끝낼 수 있을 떄 . 
+
+bfs(){
+  //q 초기값 설정.
+
+  while(!q.isEmpty()){
+  
+    q.pop();
+    visit = true;
+    
+    for(int i=0; i<4; i++){
+    // tx, ty 설정
+    
+    //범위 처리
+    
+    //else { 본격 처리 q.insert}
+    
+    
+    }
+  
+  }
+
+}
