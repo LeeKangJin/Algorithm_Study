@@ -2,7 +2,7 @@
 
 
 DFS.
-- Visit 배열 작성 주의.
+- Visit 배열 작성 주의.  ( 보통 1번 Test Case 를 돌렸는데 Stack OverFlow 다 하면 100퍼임 주의)
 
 - dx[], dy[] 상황에 따라 판단하고 쓸것.
 
