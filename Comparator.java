@@ -3,7 +3,7 @@
 // x순 내림차순 정렬, x가 같을 때 y순 내림차순 정렬 Comparator
 
 
-class order implement Comparator<struct>{
+class order implements Comparator<struct>{
 
   public int compare(struct a, struct b){
   
