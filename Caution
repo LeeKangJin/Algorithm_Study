@@ -1,5 +1,5 @@
 주의 사항.
-
+DFS / BFS / 빡구현 어떤 것인지 판단하고 코딩하는 것이 중요.
 
 DFS.
 - Visit 배열 작성 주의.  ( 보통 1번 Test Case 를 돌렸는데 Stack OverFlow 다 하면 100퍼임 주의)
