@@ -9,3 +9,7 @@ backjun https://www.acmicpc.net/
 
 
 
+SW expert acadamy A+ 획득
+
+now my Goal - acquire LV B
+
