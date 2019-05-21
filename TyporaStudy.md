@@ -26,7 +26,7 @@ public static void main(Strgin args[])
 
 
 
-# II. 이미 프로젝트 수정 할 떄 
+# I. 이미 만들어진 프로젝트 수정 할 떄 
 
 '
 git status : 현재 상태 출력
