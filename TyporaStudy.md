@@ -24,3 +24,18 @@ public static void main(Strgin args[])
 }
 ```
 
+
+
+# II. 이미 프로젝트 수정 할 떄 
+
+'
+git status : 현재 상태 출력
+git diff : tracking 내용 출력
+'
+
+새로운 파일 수정 및 추가 할 때
+'
+git add [파일명] // git add . (현재 디렉토리 pull)
+git commit -m "[Messange]"
+git push -u orign master
+'
