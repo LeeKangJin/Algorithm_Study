@@ -1,6 +1,6 @@
 # Algorithm_Study
 
-TIL of study algorithm
+TIL of studing algorithm
 
 I usually use two site 
 
