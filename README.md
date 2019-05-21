@@ -11,7 +11,7 @@ backjun https://www.acmicpc.net/
 
 SW expert acadamy A+ 획득
 <div>
-<img width ="600" src = "https://user-images.githubusercontent.com/28384064/56636347-6ca58500-66a3-11e9-980c-6d9374970a44.png">
+<img width ="600" src = "https://user-images.githubusercontent.com/28384064/58076130-62b06c80-7be4-11e9-8349-71a62f772895.png">
 </div>
 
 
