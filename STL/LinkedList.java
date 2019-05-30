@@ -71,7 +71,8 @@ class LinkedList{
 		
 	}
 	
-	//삭제 만들 것
+	//TO DO 
+	// add remove function
 	
 	
 }
