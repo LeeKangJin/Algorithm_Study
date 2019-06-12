@@ -12,7 +12,7 @@
 
 - Ctrl + Shift + O : import 정리
 - Ctrl + J : 점증적 검색
-
+- Ctrl + Shift + F : code 
 
 
 ## Navigation
